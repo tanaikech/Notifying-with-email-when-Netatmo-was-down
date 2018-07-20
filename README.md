@@ -34,6 +34,8 @@ At first, it prepares to use Netatmo's API. As the next step, it installs the sc
 
 **When [a time-driven triggers](https://developers.google.com/apps-script/guides/triggers/installable#managing_triggers_manually) is installed to "run()", this script can continue to check your Netatmo with the cycle set by the time-driven triggers.** As a sample. I set this to 15 minutes which is the same with ``diffTime``.
 
+# Related applications
+- If you want to check Netatmo's condition using a CLI application, you can also use [this](https://github.com/tanaikech/gonetatmo).
 
 -----
 
